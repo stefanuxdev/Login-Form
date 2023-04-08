@@ -126,4 +126,8 @@
     color: #4158d0;
     text-decoration: none;
   }
+form .pass-link a:hover,
+  form .signup-link a:hover{
+    text-decoration: underline;
+  }
   
